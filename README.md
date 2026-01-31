@@ -1,2 +1,2 @@
 # Cinemaself
-dự án web xe phim
+dự án web xem phim
